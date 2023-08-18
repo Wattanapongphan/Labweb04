@@ -1,0 +1,28 @@
+    *{
+        text-align: center;
+        margin: 0;
+        padding: 0;
+    }
+    .myChart {
+        width: 40vw;
+        height: 150px; 
+        margin: 0 auto;
+    }
+
+    .myDoughnutChart{
+        width: 30vw;
+        height: 150px;
+        margin: 0 auto;
+    }
+
+    .myRadarChart{
+        width: 50vw;
+        height: 300px;
+        margin: 0 auto;
+    }
+
+    .myLineChart{
+        width: 50vw;
+        height: 150px;
+        margin: 0 auto;
+    }
